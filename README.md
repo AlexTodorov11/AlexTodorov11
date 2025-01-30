@@ -20,4 +20,4 @@
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)](https://github.com/)
 [![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwind-css)](https://github.com/)
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AlexTodorov11&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
