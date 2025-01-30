@@ -1,5 +1,4 @@
 ## I'm Aleks - currently the Web Development Lead & PM at KUKUI.
-I'm a developer passionate about creating great web experiences. I specialize in front-end development and working with various content management systems.
 
 ## 💻 Tech Stack
 
