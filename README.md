@@ -1,5 +1,5 @@
 ## 💡 Who Am I?
-I'm Aleks - currently the Web Development Lead & PM at KUKUI. I have a background in SEO and Search Engine Algorithms. At a time also utilized AI and LLMs to do reserach and update processes - I'm still deeply interested in AI and all of its various uses.   
+I'm Aleks - currently a Web Development & Operations Lead at a Software and marketing company based in the US & Bulgaria. I have a background in SEO and Search Engine Algorithms. At a time also utilized AI and LLMs to do reserach and update processes - I'm still deeply interested in AI and all of its various uses.   
 
 ## 💻 Tech Stack
 
